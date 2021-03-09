@@ -6,8 +6,8 @@
 # See /LICENSE for more information.
 #
 # https://github.com/P3TERX/Actions-OpenWrt
-# git clone https://github.com/kenzok8/openwrt-packages.git
-#src-git small https://github.com/kenzok8/small
+# https://github.com/kenzok8/openwrt-packages.git
+# https://github.com/kenzok8/small
 # File name: diy-part2.sh
 # Description: OpenWrt DIY script part 2 (After Update feeds)
 #
